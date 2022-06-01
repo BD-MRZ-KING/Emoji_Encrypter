@@ -8,6 +8,7 @@
 ```
 ```
 $ cd
+
 $ rm -rf Emoji_Encrypter
 
 $ pkg update
