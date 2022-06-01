@@ -27,6 +27,7 @@ $ pip install bs4
 $ pkg install git
 
 $ git clone https://github.com/BD-MRZ-KING/Emoji_Encrypter
+
 $ cd Emoji_Encrypter
 
 $ python Encrypter.py
