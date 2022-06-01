@@ -1,6 +1,6 @@
 # Emoji_Encrypter
 
-https://github.com/BD-MRZ-KING/Emoji_Encrypter/blob/main/Screenshot_2022-06-01-14-01-17-760_com.termux.jpg
+![20200808_160757] (https://github.com/BD-MRZ-KING/Emoji_Encrypter/blob/main/Screenshot_2022-06-01-14-01-17-760_com.termux.jpg)
 
 
 ## <b>Installation</b>
